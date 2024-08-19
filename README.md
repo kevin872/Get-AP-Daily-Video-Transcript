@@ -5,7 +5,7 @@ Open AP Daily Video
 Click Inspect Element (Right-click > Inspect or cmd+opt+I (⌘ + ⌥ + I) or cmd+opt+C (⌘ + ⌥ + c))  
 Go to Console  
 Paste in the code twice  
-The output should be the transcript  
+The output should be a few errors and then the transcript  
 
 ## Supported Browsers
 * Chrome  
