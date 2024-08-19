@@ -1,4 +1,4 @@
-# Get AP Daily Video Transcript for AP Collegeboard Videos
+# Get The Full AP Daily Video Transcript for AP Collegeboard Videos
 
 ## How to use
 Open AP Daily Video  
