@@ -4,7 +4,7 @@
 * Open AP Daily Video  
 * Click Inspect Element (Right-click > Inspect or cmd+opt+I (⌘ + ⌥ + I) or cmd+opt+C (⌘ + ⌥ + c))  
 * Click on Console  
-* Paste in the script.js code twice in the console  
+* Paste the script.js code twice in the console  
 * The output should be a few errors and then the transcript  
 
 ## Supported Browsers
