@@ -3,8 +3,8 @@
 ## How to use
 Open AP Daily Video  
 Click Inspect Element (Right-click > Inspect or cmd+opt+I (⌘ + ⌥ + I) or cmd+opt+C (⌘ + ⌥ + c))  
-Go to Console  
-Paste in the code twice  
+Click on Console  
+Paste in the script.js code twice in the console  
 The output should be a few errors and then the transcript  
 
 ## Supported Browsers
