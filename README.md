@@ -12,3 +12,4 @@ Works on Chrome
 TODO:  
 * Replace the 69 lines of ChatGPT code with some senior developer code or... at least GPT4 code
 * Get this to work on Safari, and FireFox
+* Improve README
