@@ -7,3 +7,5 @@ Paste in the code twice
 The output should be the transcript  
   
 Works on Chrome  
+  
+TODO: Replace the 69 lines of ChatGPT code with some senior developer code or... at least GPT4 code
