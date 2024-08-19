@@ -56,7 +56,11 @@ function printGridRows() {
     const grid = document.querySelector('[role="grid"]');
     if (grid) {
         const rows = grid.querySelectorAll('[role="row"]');
-        rows.forEach(row => console.log(row.textContent.trim()));
+        let result = '';
+        rows.forEach(row => {
+            result += row.textContent.trim() + ' ';
+        });
+        console.log(result.trim());
     } else {
         console.log('Grid not found.');
     }
