@@ -6,10 +6,11 @@ Click Inspect Element (Right-click > Inspect or cmd+opt+I (⌘ + ⌥ + I) or cmd
 Go to Console  
 Paste in the code twice  
 The output should be the transcript  
+
+## Supported Browsers
+* Chrome  
   
-Works on Chrome  
-  
-TODO:  
+## TODO:  
 * Replace the 73 lines of ChatGPT code with some senior developer code or... at least GPT4 code
 * Get this to work on Safari, and FireFox
 * Improve README
